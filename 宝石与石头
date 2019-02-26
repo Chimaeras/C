@@ -1,0 +1,74 @@
+给定字符串J 代表石头中宝石的类型，字符串 S代表你拥有的石头。 S 中每个字符代表了一种你拥有的石头的类型，你想知道你拥有的石头中有多少是宝石。
+
+J 中的字母不重复，J 和 S中的所有字符都是字母。字母区分大小写，因此"a"和"A"是不同类型的石头。
+
+
+
+public:
+    int numJewelsInStones(string J, string S) 
+    {
+        int s=0;
+        for(int i=0;i<J.size();i++)
+        {
+            for(int j=0;j<S.size();j++)
+            {
+                if(J[i]==S[j]) s++;		//对比两个数组的字母 若有相同项就加1
+            }
+        }
+        return s;
+    }
+
+
+public:
+    int numJewelsInStones(string J, string S) 
+    {
+        int n[52]={0};
+        int count=0;
+        if(J.empty()||S.empty())
+            return 0;
+        for(auto tmp:J)
+        {
+            if(tmp<='Z'&&tmp>='A')
+            {
+                ++n[tmp-'A'+26];
+            }
+            else
+                ++n[tmp-'a'];
+        }
+        for(auto tmp:S)
+        {
+           if(tmp<='Z'&&tmp>='A')
+            {
+                if(n[tmp-'A'+26]!=0)
+                    ++count;
+            }
+            else
+            {
+                if(n[tmp-'a']!=0)
+                    ++count;
+            }
+        }
+        return count;
+    }
+
+
+public:
+    bool judge(char ch, const char* arr, int n)
+    {
+        bool result = false;
+        for(int i = 0; i < n; i++)
+        {
+            if(ch == arr[i])
+            {
+                result = true;
+                break;
+            }
+        }
+        return result;
+    }
+    int numJewelsInStones(string J, string S) 
+    {
+        char jewels[50];
+        int cnt = 0;
+        for(int i = 0; i < J.length(); i++)
+        {
