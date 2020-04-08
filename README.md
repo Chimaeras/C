@@ -46,3 +46,9 @@
  43 | 1281 | [整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| 循环 | 简单 | 1
  44 | 1266 | [访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)| 判断大小 | 简单 | 1
  45 | 1351 | [统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/)| 判断长度 | 简单 | 1
+ 46 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)| 哈希 空间换时间 | 简单 | 2
+ 47 | 1299 | [将每个元素换为右侧最大元素](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/submissions/)| 数组中操作 | 简单 | 1
+ 48 | 1304 | [和为零的前N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/)| 数组 前n项和 | 简单 | 1
+ 49 | 53 | [0~n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)| 二分查找 边界 | 简单 | 2
+ 50 | 53 | [在排序数组中查找数字](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)| 二分查找 边界 | 简单 | 1
+ 51 | 56 | [数组中数字出现的次数_2](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)| 布尔运算 位运算 哈希表 循环  | 中等 | 3
