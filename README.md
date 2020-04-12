@@ -52,3 +52,6 @@
  49 | 53 | [0~n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)| 二分查找 边界 | 简单 | 2
  50 | 53 | [在排序数组中查找数字](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)| 二分查找 边界 | 简单 | 1
  51 | 56 | [数组中数字出现的次数_2](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)| 布尔运算 位运算 哈希表 循环  | 中等 | 3
+ 52 | 1323 | [6和9组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/)| 循环  | 简单 | 1
+ 53 | 17 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)| 循环  | 简单 | 1
+ 54 | 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)| 数组  | 简单 | 1
