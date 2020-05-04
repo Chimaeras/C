@@ -63,3 +63,14 @@
  60 | 1122 | [数组的相对顺序](https://leetcode-cn.com/problems/relative-sort-array/)| 数组 频率  | 简单 | 2
  61 | 17.04 | [消失的数字](https://leetcode-cn.com/problems/missing-number-lcci/)| 数组 频率  | 简单 | 1
  62 | 17.10 | [主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)| 数组 定位 频率  | 简单 | 2
+ 63 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)| 字符串拼接  | 简单 | 1
+ 64 | 21 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| 链表链接  | 简单 | 1
+ 65 | 5372 | [逐步求和得到正数的最小值](https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/)| 最小前缀和  | 简单 | 2
+ 66 | 1414 | [和为k的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k//)| 贪心  | 中等 | 2
+ 67 | 1207 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/)| map和set容器  | 简单 | 2
+ 68 | 575 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/)| map和set容器  | 简单 | 2
+ 69 | 57 | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)| 双指针  | 简单 | 1
+ 70 | 61 | [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)| 统计次数 | 简单 | 1
+ 71 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)| 迭代 | 简单 | 1
+ 72 | 367 | [自除数](https://leetcode-cn.com/problems/valid-perfect-square/)| 数学 | 简单 | 1
+ 73 | 1103 | [分糖果_2](https://leetcode-cn.com/problems/distribute-candies-to-people/)| 数学 | 简单 | 1
