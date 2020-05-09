@@ -74,3 +74,6 @@
  71 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)| 迭代 | 简单 | 1
  72 | 367 | [自除数](https://leetcode-cn.com/problems/valid-perfect-square/)| 数学 | 简单 | 1
  73 | 1103 | [分糖果_2](https://leetcode-cn.com/problems/distribute-candies-to-people/)| 数学 | 简单 | 1
+ 74 | 16.07 | [最大数值](https://leetcode-cn.com/problems/maximum-lcci/)| 数学 位运算 | 简单 | 1
+ 75 | 628 | [三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)| 数学  | 简单 | 1
+ 76 | 16.05 | [阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci/)| 数学  | 简单 | 1
