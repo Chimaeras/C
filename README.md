@@ -77,3 +77,6 @@
  74 | 16.07 | [最大数值](https://leetcode-cn.com/problems/maximum-lcci/)| 数学 位运算 | 简单 | 1
  75 | 628 | [三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)| 数学  | 简单 | 1
  76 | 16.05 | [阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci/)| 数学  | 简单 | 1
+ 77 | 1029 | [两地调度](https://leetcode-cn.com/problems/two-city-scheduling/)| 贪心  | 简单 | 2
+ 78 | 1046 | [最后一个石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)| 贪心  | 简单 | 2
+ 79 | 877 | [石子游戏](https://leetcode-cn.com/problems/stone-game/| dp数组  | 中等 | 4
